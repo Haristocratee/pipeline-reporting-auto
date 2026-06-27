@@ -9,6 +9,12 @@
 
 ---
 
+
+## Visualisation
+
+![Distribution du CA · Heatmap agence × trimestre · Matrice de corrélations · Pipeline](assets/viz_5_reporting.png)
+
+> *Distribution du CA · Heatmap agence × trimestre · Matrice de corrélations · Pipeline*
 ## 🎯 Contexte
 
 Automatisation des reportings récurrents — directement inspiré de mon travail chez **Afriland First Bank** où je produisais des rapports mensuels de KPIs manuellement sous Excel.
